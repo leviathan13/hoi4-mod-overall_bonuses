@@ -98,7 +98,7 @@
  OPERATIONAL_INTEGRITY_OVERALL_LABEL:0 "Operational Integrity Overall"
  
  operational_integrity_overall:0 "Operational Integrity"
- operational_integrity_desc:0 "All §YOperational Integrity§! effects after completing all paths.\n\n"
+ operational_integrity_overall_desc:0 "All §YOperational Integrity§! effects after completing all paths.\n\n"
  
  
  # Hidden Tech
