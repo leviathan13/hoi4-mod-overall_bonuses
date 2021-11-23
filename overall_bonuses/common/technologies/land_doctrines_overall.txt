@@ -1,3 +1,5 @@
+# Last patch values checked: 1.11.1
+
 technologies = {
 
 	##########################
@@ -23,6 +25,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		folder = {
 			name = land_doctrine_folder
@@ -83,6 +86,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -175,6 +179,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -242,6 +247,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -328,6 +334,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -415,6 +422,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -485,6 +493,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -564,6 +573,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		folder = {
 			name = land_doctrine_folder
@@ -615,6 +625,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -646,6 +657,8 @@ technologies = {
 			max_organisation = 10
 		}
 
+		coordination_bonus = 0.05
+
 		enable_tactic = tactic_barrage
 		enable_tactic = tactic_delay
 		enable_tactic = tactic_elastic_defense
@@ -675,6 +688,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -726,6 +740,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -763,6 +778,7 @@ technologies = {
 			max_organisation = 10
 		}
 
+		coordination_bonus = 0.05
 		land_reinforce_rate = 0.02
 		army_bonus_air_superiority_factor = 0.20
 
@@ -788,6 +804,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -838,6 +855,8 @@ technologies = {
 			max_organisation = 10
 		}
 
+		coordination_bonus = 0.05
+
 		enable_tactic = tactic_barrage
 		enable_tactic = tactic_delay
 		enable_tactic = tactic_elastic_defense
@@ -861,6 +880,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -923,6 +943,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -1005,6 +1026,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		folder = {
 			name = land_doctrine_folder
@@ -1028,6 +1050,7 @@ technologies = {
 			max_organisation = 10
 		}
 
+		command_power_gain = 0.25
 		max_planning = 0.1
 		max_dig_in = 10
 		dig_in_speed_factor = 0.25
@@ -1048,6 +1071,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -1086,6 +1110,9 @@ technologies = {
 			max_organisation = 20
 		}
 		
+		command_power_gain = 0.25
+		max_command_power = 30
+		coordination_bonus = 0.1
 		max_planning = 0.3
 		max_dig_in = 10
 		dig_in_speed_factor = 0.25
@@ -1111,6 +1138,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -1151,6 +1179,8 @@ technologies = {
 			breakthrough = 0.1
 		}
 
+		command_power_gain = 0.25
+		command_power_gain_mult = 0.15
 		max_planning = 0.1
 		max_dig_in = 10
 		dig_in_speed_factor = 0.25
@@ -1187,6 +1217,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		folder = {
 			name = land_doctrine_folder
@@ -1225,6 +1256,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}
@@ -1304,6 +1336,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 
 		#categories = {
 		#}

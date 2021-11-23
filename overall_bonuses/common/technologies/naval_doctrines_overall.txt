@@ -1,3 +1,5 @@
+# Last patch values checked: 1.11.1
+
 technologies = {
 
 	fleet_in_being_overall = {
@@ -11,6 +13,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 		
 		#categories = {
 		#}
@@ -75,6 +78,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 		
 		#categories = {
 		#}
@@ -150,6 +154,7 @@ technologies = {
 		doctrine = yes
 
 		research_cost = 1
+		xp_unlock_cost = 100
 		
 		#categories = {
 		#}
